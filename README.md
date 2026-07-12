@@ -11,8 +11,12 @@
 | データ | CSV(raw) |
 |---|---|
 | 普通預金金利(%)｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/bank-deposit-ordinary.csv |
+| 国内株手数料(10万約定,円)｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/broker-fee-domestic-stock.csv |
 | NISA口座数・主要ネット証券KPI｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/broker-nisa-kpi.csv |
+| 年会費(円)｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/card-annual-fee.csv |
+| クレカ積立還元率(最大)｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/card-tsumitate-max.csv |
 | 公共料金還元率｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/card-utility-reward.csv |
+| USDJPYスプレッド(銭)｜横比較 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/fx-usdjpy-spread.csv |
 | 10年国債｜長期金利(10年応募者利回り) の推移 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/macro-jgb-10y.csv |
 | 日経平均｜日経平均(月末終値) の推移 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/macro-nikkei225.csv |
 | 日本銀行｜政策金利(誘導目標・上限) の推移 | https://raw.githubusercontent.com/tatsujiooguri-glitch/sagakane-public-data/main/macro-policy-rate.csv |
